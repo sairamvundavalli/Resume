@@ -1,0 +1,14 @@
+.right
+{
+    float:right;
+}
+
+.left
+{
+    background-color:blue;
+}
+
+.left hr
+{
+    color:black;
+}
